@@ -1,3 +1,5 @@
-### NetFlix Clone
+## NetFlix Clone
+
 Implemented using React
+
 Data from TMDB
