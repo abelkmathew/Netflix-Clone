@@ -1,4 +1,4 @@
-## NetFlix Clone
+# NetFlix Clone
 
 Implemented using React
 
